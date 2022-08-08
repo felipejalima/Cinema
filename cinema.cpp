@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 #define PrecoIngresso 15.00 //Caso o ingresso troque de valor, ? s? alterar aqui
+// eita coroi
 
 using namespace std;
 
